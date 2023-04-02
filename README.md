@@ -1,1 +1,17 @@
-# sms
+# spam-sms
+```
+good luck friends:v
+```
+# Command ?
+```python
+$ pkg update && pkg upgrade -y
+$ pkg install python
+$ pkg install git
+$ git clone https://github.com/TZdev7/sms/
+$ cd sms
+$ python sms.py
+```
+## Support Me 
+<br>
+<b>• [Youtube](https://youtube.com/@TZdev7)</b>
+</be>
