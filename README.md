@@ -16,5 +16,5 @@ $ python sms.py
 ## Support Me 
 <br>
 <b>• [Youtube]
-(https://youtube.com/@TZdev7)</b>
+(https://youtube.com/channel/@TZdev7)</b>
 </br>
